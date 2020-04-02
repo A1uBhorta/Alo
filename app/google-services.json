@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "57911266902",
+    "firebase_url": "https://alo-trial.firebaseio.com",
+    "project_id": "alo-trial",
+    "storage_bucket": "alo-trial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57911266902:android:0e58b59679e3d372b835f7",
+        "android_client_info": {
+          "package_name": "com.sheikh.alotrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57911266902-755pd2voj93utjdstkaso0r1b1393hie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-OzskG5lKxaxgj9yO1nY5HxMPa_owHfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57911266902-755pd2voj93utjdstkaso0r1b1393hie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
